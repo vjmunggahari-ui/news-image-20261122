@@ -1,8 +1,8 @@
 # Sunday 22 November 2026 — in one image
 
 [![bounty](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122)
-[![rank](https://make.fun/badge/news-image-20261122/Indramunggahari10/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122)
-[![reward](https://make.fun/badge/news-image-20261122/Indramunggahari10/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/vjmunggahari-ui/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/vjmunggahari-ui/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122)
 
 A dense newspaper front page that sums up the world's news of **Sunday
 22 November 2026** — 35 dated stories across 7 regions, drawn entirely in
